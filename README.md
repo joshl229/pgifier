@@ -3,4 +3,4 @@ Cleans up the dirty text on a specific webiste.
 
 
 References:
-https://medium.freecodecamp.org/the-ultimate-guide-to-web-scraping-with-node-js-daa2027dcd3
+https://codeburst.io/a-guide-to-automating-scraping-the-web-with-javascript-chrome-puppeteer-node-js-b18efb9e9921
